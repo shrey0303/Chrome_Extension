@@ -16,3 +16,7 @@ A Chrome extension that, when enabled, captures text from an element of a webpag
 
 # Note
 If keyboard shortcuts are not automatically enabled, go to chrome://extensions/shortcuts , and use Ctrl+Shift+U for "Run content-script on the current page." field.
+
+## Authors
+
+- [@Shrey](https://www.github.com/shrey0303)
